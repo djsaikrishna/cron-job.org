@@ -207,7 +207,7 @@
         "FAILED_SIZE": "The response was larger than the allowed limit and was aborted. Make the endpoint return less data.",
         "FAILED_URL": "The URL could not be parsed. Please check it for typos and make sure it starts with http:// or https://.",
         "FAILED_INTERNAL": "An internal error occurred while executing the job. If this keeps happening, please contact our support team.",
-        "FAILED_OTHERS": "The request failed for an unspecified reason. Please try a test run to get more details."
+        "FAILED_OTHERS": "The request failed for an unspecified reason."
       },
       "http": {
         "3xx": "The server returned a redirect. By default redirects are treated as a failure — you can enable \"Treat redirects as success\" in the job's advanced settings, or point the job directly at the redirect target.",

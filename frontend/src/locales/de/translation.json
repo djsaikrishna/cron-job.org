@@ -207,7 +207,7 @@
         "FAILED_SIZE": "Die Antwort war größer als das erlaubte Limit und wurde abgebrochen. Lassen Sie den Endpunkt weniger Daten zurückgeben.",
         "FAILED_URL": "Die URL konnte nicht verarbeitet werden. Bitte prüfen Sie sie auf Tippfehler und stellen Sie sicher, dass sie mit http:// oder https:// beginnt.",
         "FAILED_INTERNAL": "Beim Ausführen des Jobs ist ein interner Fehler aufgetreten. Falls dies wiederholt auftritt, kontaktieren Sie bitte unser Support-Team.",
-        "FAILED_OTHERS": "Die Anfrage ist aus einem nicht näher bestimmten Grund fehlgeschlagen. Führen Sie einen Testlauf durch, um weitere Details zu erhalten."
+        "FAILED_OTHERS": "Die Anfrage ist aus einem nicht näher bestimmten Grund fehlgeschlagen."
       },
       "http": {
         "3xx": "Der Server hat eine Weiterleitung zurückgegeben. Weiterleitungen werden standardmäßig als Fehler gewertet — Sie können in den erweiterten Einstellungen \"Weiterleitungen als Erfolg werten\" aktivieren oder den Job direkt auf das Weiterleitungsziel richten.",
